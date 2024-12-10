@@ -6,3 +6,5 @@ properly use git and github.
 ### Installation
 
 ### Dependencies
+
+### License
